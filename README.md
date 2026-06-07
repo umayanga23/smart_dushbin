@@ -1,7 +1,4 @@
-# smart_dushbin
-Smart Dustbin
-# Create README.md in project root
-cat > README.md << 'EOF'
+
 # Smart Dustbin — ESP32 IoT Project
 
 > Automatic lid control using motion detection and sound/voice trigger
